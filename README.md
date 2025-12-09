@@ -4,7 +4,7 @@
 ## Overview
 Her Health Solution is an offline breast cancer detection web application designed to provide early diagnostic support. Developed and showcased at **DataFest, Islamabad**, this project combines machine learning with a user-friendly, bilingual (English/Urdu) interface to make healthcare insights accessible to a wider audience.
 ![App interface](screenshot.png.jpeg)
-
+![Main](screenshot2.jpeg)
 ## Features
 - Offline detection: Functions without internet, ensuring accessibility anywhere.
 - Bilingual interface: Supports English and Urdu.
